@@ -4,7 +4,7 @@ This is a simple Website project for showing how to use Git and GitHUb togeth
 
 Line added on testbranch
 
-Line added on master branch
+Line added on secondbranch
 
 ## Introduction
 
