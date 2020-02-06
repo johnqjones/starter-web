@@ -4,6 +4,8 @@ This is a simple Website project for showing how to use Git and GitHUb togeth
 
 Line added on testbranch
 
+Line added on master branch
+
 ## Introduction
 
 This is example to show different parts of the Git repository and variosu commands using a web project.
